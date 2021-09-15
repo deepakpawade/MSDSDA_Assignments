@@ -2,7 +2,7 @@
 BRUH!!!
 ##Contributing
 
-1. Fork this repository (https://github.com/wick3ds0ul/Track-My-Show/fork)
+1. Fork this repository (https://github.com/deepakpawade/MSDSDA_Assignments/)
 1. Clone to your machine
    `git clone "url you just copied"`
 1. Create your feature branch
